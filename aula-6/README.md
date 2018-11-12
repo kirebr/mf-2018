@@ -1,3 +1,3 @@
 # eXtreme Programming:
 #
-# … uma metodologia com foco em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunicaÁ„o, feedback e coragem que nos submetem ao reconhecimento de que XP È uma metodologia baseada em comportamentos e atitudes. Dessa forma, ela propicia que o projeto seja executado dentro do prazo e do orÁamento, fazendo ent„o com que o cliente fique satisfeito e a equipe de desenvolvimento n„o fique maluca por causa do projeto.  
+# √â uma metodologia com foco em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunica√ß√£o, feedback # e coragem que nos submetem ao reconhecimento de que XP √© uma metodologia baseada em comportamentos e atitudes. Dessa forma, ela propicia # que o projeto seja executado dentro do prazo e do or√ßamento, fazendo ent√£o com que o cliente fique satisfeito e a equipe de # desenvolvimento n√£o fique maluca por causa do projeto.  
